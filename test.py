@@ -1,4 +1,4 @@
 # Hello from python
 
-# added line
+# changed line
 # another line to staged file
