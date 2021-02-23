@@ -1,4 +1,4 @@
 # Hello from python
 
-# added line
+# line changed in remote repo
 # another line to staged file
