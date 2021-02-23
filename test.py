@@ -7,3 +7,5 @@
 # line from local
 
 # some line that exist only in new brach 
+
+# another line to check merge
